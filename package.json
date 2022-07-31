@@ -1,0 +1,12 @@
+{
+  "name": "@only1nft/cleanup-wallet",
+  "version": "1.0.0",
+  "description": "Burns all NFTs and closes associated token accounts",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.50.1"
+  }
+}
